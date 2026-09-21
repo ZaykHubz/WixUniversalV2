@@ -1353,4 +1353,3 @@ local function autoShoot()
     if not myHead then return end
     
     local muzzle = gun:FindFirstChild("Muzzle")
-    local... (11 KB left)
